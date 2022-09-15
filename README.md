@@ -2,7 +2,7 @@
 
 ## Módulo Cápsula 4 - Material UI
 
-Para este exercício, continuaremos trabalhando no projeto "Free Store", adicionando uma nova seção "Contato" para que as pessoas possam enviar suas preocupações. Para fazer isso, vamos construir um formulário usando Material UI. Usando a base de código, criaremos um arquivo _contact.tsx_ dentro da pasta _pages_.
+Para este exercício, continuaremos trabalhando no projeto "Loja Gratuita", adicionando uma nova seção "Contacto" para que as pessoas possam enviar suas preocupações. Para fazer isso, vamos construir um formulário usando Material UI. Usando a base de código, criaremos um arquivo _contact.tsx_ dentro da pasta _pages_.
 
 Lá, iniciaremos a construção do formulário, que conterá os seguintes campos:
 
@@ -191,7 +191,7 @@ return (
 
 Desta forma, se entrarmos na seção correspondente, veremos nosso formulário finalizado
 
-Exercício terminado na branch [capsula-mod-4-terminado](https://github.com/PedagogiaDHBrasil/ctd-esp-front3-aula22-capsulas/tree/capsula-mod-4-terminado)
+Exercício terminado em [ctd-esp-front3-aula22-capsula-mod-4-terminado](https://github.com/PedagogiaDHBrasil/ctd-esp-front3-aula22-capsula-mod-4-terminado)
 
 ## Capsula Modulo 5 - React Hook Form
 
@@ -439,7 +439,7 @@ return (
 
 Uma vez concluído, poderemos ver como as validações são aplicadas se tentarmos enviá-lo com um campo inválido. Por outro lado, se todos os campos estiverem corretos, veremos o alerta com as informações inseridas.
 
-Exercício terminado na branch [capsula-mod-5-terminado](https://github.com/PedagogiaDHBrasil/ctd-esp-front3-aula22-capsulas/tree/capsula-mod-5-terminado)
+Exercício terminado em [ctd-esp-front3-aula22-capsula-mod-5-terminado](https://github.com/PedagogiaDHBrasil/ctd-esp-front3-aula22-capsula-mod-5-terminado)
 
 ## Capsula Modulo 6 - React Hook Form - Forms Avançado
 
@@ -625,4 +625,4 @@ Por fim, criamos nosso novo campo dinâmico dentro do formulário:
 
 Com isso, podemos verificar como temos a possibilidade de adicionar/remover elementos e selecionar as opções. Além disso, podemos testar as diferentes validações, bem como verificar o envio do formulário se todos os dados estão corretos.
 
-Exercício terminado na branch [capsula-mod-6-terminado](https://github.com/PedagogiaDHBrasil/ctd-esp-front3-aula22-capsulas/tree/capsula-mod-6-terminado)
+Exercício terminado em [ctd-esp-front3-aula22-capsula-mod-6-terminado](https://github.com/PedagogiaDHBrasil/ctd-esp-front3-aula22-capsula-mod-6-terminado)
